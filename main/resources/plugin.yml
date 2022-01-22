@@ -1,0 +1,14 @@
+name: UniteWarps
+version: '${project.version}'
+main: com.elitepusher.unitewarps.UniteWarps
+api-version: 1.13
+
+commands:
+  setwarp:
+    description: This command allows you to create a warp.
+  warp:
+    description: This command allows you to teleport to a warp.
+  delwarp:
+    description: This command allows you to remove a warp.
+  uniteinfo:
+    description: This command shows info about plugin.
